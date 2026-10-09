@@ -16,7 +16,7 @@ void testarmultiplicacao(){
     Calculadora calculadora = new Calculadora();
     int resultado = calculadora.multiplicar(3, 2);
     //metodo assertEquals compara o resultado que esperamos com o 
-    assertEquals(6, resultado);
+    assertEquals(4, resultado);
 }
 }
 
